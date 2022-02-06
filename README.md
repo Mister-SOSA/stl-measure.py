@@ -1,6 +1,6 @@
 # stl-measure.py | STL 3D Model Measurement Tool
 
-A very simple Python module which allows you to quickly get the measurements of a 3D STL Model file.
+A simple, easy to use Python module which allows you to quickly measure STL files.
 
 ## ⚙️ Installation
 
