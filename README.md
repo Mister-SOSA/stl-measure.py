@@ -5,7 +5,7 @@ A simple, easy to use Python module which allows you to quickly measure STL file
 ## ⚙️ Installation
 
 No support for PyPi yet, and thus you cannot install this module with `pip install`. Maybe I will do this in the future.
-For now, just download from Releases and import it manually.
+For now, just download the repo and place the `stlmeasure.py` file in your project directory.
 
 ## 🔧 Usage & Examples
 
