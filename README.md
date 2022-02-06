@@ -15,7 +15,8 @@ import stlmeasure
 ```
 At the current time, the module has two main functions, `get_dimensions(obj, units)` and `get_box_volume(obj, units)`.
 `get_dimensions(obj, units)` returns a dictionary with the X, Y, and Z dimensions of the object inside.
-`get_box_volume(obj, units)` returns a numeric value representing the volume of the **bounding box** of the object. This does not return the "real" volume of the mesh.
+`get_box_volume(obj, units)` returns a numeric value representing the volume of the **bounding box** of the object.
+Note: This does not return the "real" volume of the mesh.
 
 The first parameter, `obj`, is the path to the STL file you wish to measure.
 The second parameter, `units`, is the unit of measurement you would like to be returned.
